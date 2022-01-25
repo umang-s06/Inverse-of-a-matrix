@@ -1,0 +1,11 @@
+ALGORITHM FOR CALCULATING INVERSE OF 2X2 MATRIX
+1.Accept the 2x2 matrix from the user.
+2.Calculate the determinant value of that matrix.
+3.Check if the determinant of the given matrix is 0 or not.
+4.If determinant is zero, the inverse does not exist.
+5.Otherwise find the co-factor matrix.
+6.Print the cofactor matrix.
+7.Calculate adjoint(i.e, transpose of cofactor matrix) of the matrix.
+8.Print the adjoint matrix.
+9.Calculate inverse of matrix by inverse formula.
+10.Print the inverse.
