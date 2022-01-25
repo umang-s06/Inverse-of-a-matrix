@@ -1,2 +1,3 @@
-Inverse-of-a-matrix
+Inverse of a matrix
+
 Finding inverse of a matrix
